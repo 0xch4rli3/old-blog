@@ -2,13 +2,12 @@
 title: TryHackMe Skynet
 date: 2020-12-05
 categories: [TryHackMe]
-thumbnail: /assets/img/thm/skynet/skynet.png
+thumbnail: /assets/img/thm/skynet/skynet.jpeg
 excerpt: We found squirrelmail which we brute-forced with text files found in a SMB share, later found another CMS which had an LFI vulnerability. Then used a cronjob wildcard exploit for PrivEsc. 
 tags: [hydra,SMB,LFI,cronjob, wildcard exploit]
 ---
-# TryHackMe Skynet
 
-A vulnerable Terminator themed Linux machine.
+> A vulnerable Terminator themed Linux machine.
 
 ---
 
