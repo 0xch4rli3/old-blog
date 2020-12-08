@@ -2,7 +2,7 @@
 title: TryHackMe Inclusion
 date: 2020-12-05
 categories: [TryHackMe]
-thumbnail: /assets/img/thm/inclusion/lfi.png
+thumbnail: /assets/img/thm/inclusion/main.png
 excerpt: We use an LFI to gain initial access, then use a socat PrivEsc.
 tags: [LFI,socat,SSH]
 ---
