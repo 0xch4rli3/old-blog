@@ -1,5 +1,5 @@
 ---
-title: TryHackMe Basic Pentesting
+title: TryHackMe Ignite
 date: 2020-12-05
 categories: [TryHackMe]
 thumbnail: /assets/img/thm/ignite/ignite.png
