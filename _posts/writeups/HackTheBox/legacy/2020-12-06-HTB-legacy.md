@@ -1,6 +1,6 @@
 ---
 title: HackTheBox Legacy
-date: 2020-12-08
+date: 2020-12-06
 categories: [HackTheBox]
 thumbnail: /assets/img/htb/legacy/info.png
 excerpt: This is an easy level box which is vulnerable to ms08_067.
