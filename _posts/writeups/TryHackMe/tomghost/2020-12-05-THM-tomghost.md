@@ -2,7 +2,7 @@
 title: TryHackMe Tomghost
 date: 2020-12-05
 categories: [TryHackMe]
-thumbnail: /assets/img/thm/tomghost/tomghost.jpeg
+thumbnail: /assets/img/thm/tomghost/tomghost.png
 excerpt: We use and ajp file read/inclusion and got credentials for SSH and decrypt a pgp file to gain access to another user. PrivEsc was to zip.  
 tags: [ajp,ssh,zip,linpeas,cronjob,searchsploit]
 ---
