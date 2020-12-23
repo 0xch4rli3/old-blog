@@ -3,8 +3,8 @@ title: TryHackMe All in One
 date: 2020-12-21
 categories: [TryHackMe]
 thumbnail: /assets/img/thm/allinone/allinone.png
-excerpt: We use john to crack an SSH key.
-tags: [enum4linux,hydra,ssh,linpeas,john,searchsploit]
+excerpt: We open up with an nmap scan finding a webserver available. From there, we fuzzed the site and found a wordpress directory which had a vulnerable plugin which we used to get an initial shell. Then we used a basic cronjob to get a root shell.
+tags: [lfi,ftp,mail-masta,linpeas,wordpress,cronjob]
 ---
 
 ## Enumeration
