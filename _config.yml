@@ -7,17 +7,17 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
-title: Astraeus | Blog                          # the main title
+title: 0xch4rli3                          # the main title
 
-tagline: Cyber Security Student  # it will display as the sub-title
+tagline: /dev/null  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Write ups for vaious ctf sites like HackTheBox, TryHackMe, and CyberSecLabs
+  Write ups for Vulnhub machines
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: 'https://0xastraeus.github.io'
+url: 'https://0xch4rli3.github.io'
 
-author: Astraeus                  # change to your full name
+author: 0xch4rli3                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
