@@ -10,5 +10,4 @@ order: 4
 # MIT License
 ---
 
-
-Greetings, I am Astraeus, I am a cyber security student in the U.S. I do writeups for various capture the flags sites like HackTheBox, TryHackMe, and CyberSecLabs and want to share what I have learned.
+**I am gROOT**

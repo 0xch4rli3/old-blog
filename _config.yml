@@ -7,9 +7,9 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
-title: 0xch4rli3                          # the main title
+title: 0xch4rli3_gROOT                          # the main title
 
-tagline: /dev/null  # it will display as the sub-title
+tagline: I am gROOT  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Write ups for Vulnhub machines
@@ -22,18 +22,18 @@ author: 0xch4rli3                  # change to your full name
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: 0xastraeus             # change to your github username
+  username: 0xch4rli3             # change to your github username
 
 twitter:
-  username: 0xastraeus            # change to your twitter username
+  username: 0xch4rli3            # change to your twitter username
 
 social:
-  name: Astraeus                  # it will shows as the copyright owner in Footer
-  email: sethmartin207@gmail.com             # change to your email address
+  name: 0xch4rli3                  # it will shows as the copyright owner in Footer
+  email: xxxxxxxxxx@xxxxxx.xxx             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/0xastraeus      # change to your twitter homepage
-    - https://github.com/0xastraeus       # change to your github homepage
+    # https://twitter.com/0xastraeus      # change to your twitter homepage
+    - https://github.com/0xch4rli3       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -48,7 +48,7 @@ baseurl: ''
 
 # Change to your time
 # zone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/New_York
+timezone: America/Sao_Paulo
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
