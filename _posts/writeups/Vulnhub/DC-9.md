@@ -4,7 +4,7 @@ date: 2021-12-03
 categories: [Vulnhub]
 thumbnail: /assets/img/Vulnhub/DC-9/capa.png
 tags: [SQLInjection,LFI,Port Knocking,BruteForce]
-...
+---
 
 Link da maquina: <https://www.vulnhub.com/entry/dc-9,412/>
 
