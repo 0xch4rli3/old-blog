@@ -4,8 +4,8 @@ categories: [Vulnhub]
 tags: [SQLInjection,LFI,Port Knocking,BruteForce]
 ---
 
-![](/assets/img/Vulnhub/DC-9/capa.png
-)
+![](/assets/img/Vulnhub/DC-9/capa.png)
+
 Link da maquina: <https://www.vulnhub.com/entry/dc-9,412/>
 
 
