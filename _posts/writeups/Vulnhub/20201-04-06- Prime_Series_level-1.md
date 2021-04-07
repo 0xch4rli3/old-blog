@@ -1,5 +1,5 @@
 ---
-title: Vulnhub - Prime_Series_level-1
+title: Vulnhub - Prime Series level-1
 categories: [Vulnhub]
 tags: [Wordpress,LFI]
 ---
