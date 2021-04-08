@@ -1,7 +1,7 @@
 ---
 title: Vulnhub - RickdiculouslyEasy
 categories: [Vulnhub]
-tags: []
+tags: [BurpSuite,Binwalk,Bruteforce]
 ---
 
 ![](/assets/img/Vulnhub/RickdiculouslyEasy/capa.png)
