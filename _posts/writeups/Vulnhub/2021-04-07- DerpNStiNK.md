@@ -1,7 +1,7 @@
 ---
 title: Vulnhub - DerpNStiNK
 categories: [Vulnhub]
-tags: [Wordpress,MySQL]
+#tags: [Wordpress,MySQL]
 ---
 
 ![](/assets/img/Vulnhub/DerpNStiNK/capa.png)
