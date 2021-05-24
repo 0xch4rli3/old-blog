@@ -15,7 +15,7 @@ description: >-                        # used by seo meta and the atom feed
   Write ups for Vulnhub machines
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: 'https://0xch4rli3.github.io'
+url: 'https://0xch4rli3.github.io/old-blog/'
 
 author: 0xch4rli3                  # change to your full name
 
@@ -75,7 +75,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: dual
 
 # boolean type, the global switch for ToC in posts.
 toc: true
